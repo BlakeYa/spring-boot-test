@@ -1,4 +1,4 @@
-package 算法;
+package org.算法;
 
 import java.util.Arrays;
 import java.util.Collections;
