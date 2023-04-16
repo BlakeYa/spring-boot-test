@@ -1,0 +1,4 @@
+<bean id = "user" class="org.example.ioc_test.User" >
+    <constructor-arg value="Tom" ></constructor-arg>
+    <constructor-arg value="20" ></constructor-arg>
+</bean>

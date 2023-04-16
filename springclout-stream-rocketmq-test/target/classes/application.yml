@@ -1,0 +1,16 @@
+#spring:
+#  cloud:
+#    stream:
+#      rocketmq:
+#        binder:
+#          name-server: 127.0.0.1:9876 # 修改为你的 RocketMQ NameServer 地址
+#      bindings:
+#        input:
+#          group: consumer-group-1
+#          destination: test-topic # 设置主题
+#          content-type: application/json
+#        output:
+#          producer:
+#          group: producer-group-1
+#          destination: test-topic # 设置主题
+#          content-type: application/json

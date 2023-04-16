@@ -1,0 +1,5 @@
+org/example/demo/User.class
+org/example/demo/UserController.class
+org/example/demo/UserRepository.class
+org/example/demo/MongoDBTestApplication.class
+org/example/demo/MongoDataSourceConfig.class
