@@ -25,7 +25,7 @@ public class Person1 implements Cloneable {
     }
 }
 
-class Address   {
+class Address {
     private String city;
 
     public Address(String city) {
@@ -35,7 +35,6 @@ class Address   {
     public String getCity() {
         return city;
     }
-
 
 }
 
