@@ -24,7 +24,6 @@
   <modules>
       <module>spring-data-jpa-test</module>
       <module>spring-data-mongodb-test</module>
-      <module>spring-cloud-alibaba-stream-rocketmq-test</module>
       <module>spring-framework-test01</module>
   </modules>
 
