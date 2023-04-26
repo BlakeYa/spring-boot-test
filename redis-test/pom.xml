@@ -24,21 +24,21 @@
         <dependency>
             <groupId>redis.clients</groupId>
             <artifactId>jedis</artifactId>
-            <version>3.7.0</version>
+            <version>3.6.0</version>
         </dependency>
 
-        <!--        <dependency>-->
-        <!--            <groupId>org.redisson</groupId>-->
-        <!--            <artifactId>redisson</artifactId>-->
-        <!--            <version>3.20.1</version>-->
-        <!--        </dependency>-->
+        <dependency>
+            <groupId>org.redisson</groupId>
+            <artifactId>redisson</artifactId>
+            <version>3.20.1</version>
+        </dependency>
 
-        <!-- Lettuce 连接器，用于连接Redis -->
-        <!--        <dependency>-->
-        <!--            <groupId>io.lettuce</groupId>-->
-        <!--            <artifactId>lettuce-core</artifactId>-->
-        <!--            <version>6.1.5.RELEASE</version>-->
-        <!--        </dependency>-->
+<!--        Lettuce 连接器，用于连接Redis-->
+        <dependency>
+            <groupId>io.lettuce</groupId>
+            <artifactId>lettuce-core</artifactId>
+            <version>6.1.5.RELEASE</version>
+        </dependency>
     </dependencies>
 
 
